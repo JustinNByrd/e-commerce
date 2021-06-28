@@ -1,11 +1,8 @@
 # e-Commerce Backend
 This is a RESTful backend for an e-commerce website.  It performs CRUD operations for categories, tags and products.
 
-## Repository
-[e-commerce repo](https://github.com/JustinNByrd/e-commerce)
-
 ## Installation/Usage
-1. Clone the above repo.
+1. Clone the repo.
 2. Run `npm i` to install dependancies.
 3. Run `./db/schema.sql` in mySql to create the database.
 4. Run `node ./seeds/index.js` to seed the database.
